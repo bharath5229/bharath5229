@@ -5,6 +5,7 @@
 - 📫 bharathsureshbabu22@gmail.com...
 - 😄 Pronouns: i am happy!
 - ⚡ Fun fact: opentype but shyyyyy!
+- C C++ HTML5 Python Adobe Acrobat Reader Adobe Figma Adobe Photoshop Git
 
 <!---
 bharath5229/bharath5229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
