@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm a DevOps Engineer who automates and streamlines software pipelines. I build and maintain infrastructure to ensure continuous delivery and operational stability👍</div>  
   
 
