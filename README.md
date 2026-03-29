@@ -5,82 +5,110 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE Student (CGPA: 8.67)
-- ☁️ Cloud & DevOps Enthusiast
-- 🤖 AI Developer (YOLOv8)
-- 🌱 Learning Kubernetes & Advanced AWS
-- ⚡ Fun fact: I build real-world systems
+I'm Bharath, a Computer Science Engineering student passionate about building scalable cloud-based applications ☁️ and intelligent systems 🤖.
+
+- 🎓 Pre-final year CSE student (CGPA: 8.67)
+- 🔭 Currently working on **AI & Cloud-based projects**
+- 🌱 Learning **Kubernetes, Advanced AWS & DevOps**
+- 💬 Ask me about **Java, AWS, Backend Development, AI**
+- ⚡ Fun fact: I love building real-world impactful systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Skill Set
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,aws,docker,kubernetes,git,linux,jenkins" />
-</p>
+### 💻 Programming & Backend
+- Java (OOP)
+- Python
+- Structured Programming
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, IAM)
+- Oracle Cloud Infrastructure (OCI)
+- Docker
+- Kubernetes
+- Jenkins (CI/CD)
+- Git & GitHub
+
+### 🤖 AI / ML
+- YOLOv8
+- Real-time Image Classification
+- Model Training & Optimization
+
+### 🧰 Tools & Others
+- Linux
+- Cybersecurity Fundamentals
+- Agile Workflow
 
 ---
 
 ## 🚀 Projects
 
-- 🌱 Smart Crop Detection System (YOLOv8 + AWS)
-- 💻 Java OOP Applications (Banking, Hotel, Grade)
+### 🌱 Smart Crop Detection System
+- Built using **YOLOv8 + Python + AWS EC2**
+- Real-time crop detection with high accuracy
+- Deployed scalable ML model in cloud
+
+### 💻 Java Console Applications
+- Hotel Booking System
+- Banking System
+- Grade Calculator
+- Applied OOP concepts and modular coding
 
 ---
 
-## 📊 GitHub Dashboard
+## 🧑‍💼 Experience
 
-### 🔥 Core Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+### 🔐 Cybersecurity Intern — LEARNFLU
+- Worked on network security & threat analysis
+- Hands-on vulnerability testing
 
----
-
-### 📈 Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
-</p>
+### 📊 Management Intern — SPI EDGE
+- Improved communication & leadership skills
+- Worked in team-based corporate environment
 
 ---
 
-### 🧠 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+## 📜 Certifications
+
+- 🏆 AWS Cloud Support Associate — Coursera
+- 🏆 Oracle OCI AI Foundations Associate
+- 🏆 Docker Certification (Hands-on)
+- 🏆 Kubernetes Certification (Hands-on)
+- 🏆 Java Essentials — Infosys Springboard
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=7" />
-</p>
+## 🎓 Education
 
----
-
-### ⚡ Contribution Heatmap
-<p align="center">
-<img src="https://ghchart.rshah.org/YOUR_USERNAME" />
-</p>
-
----
-
-### 📅 Contribution Snake (Animated)
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
+- 🎓 B.E. Computer Science Engineering  
+  Panimalar Engineering College (2027)  
+  CGPA: 8.67  
 
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: bharathsureshbabu22@gmail.com
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME" target="blank">GitHub</a> |
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">LinkedIn</a> |
+<a href="mailto:bharathsureshbabu22@gmail.com">Email</a>
+</p>
 
 ---
 
-## 💡 Quote
+## 📊 GitHub Stats
 
-> “Stay consistent. Success will follow.”
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## ✍️ Quote
+
+> “Consistency beats talent when talent doesn't work hard.”
