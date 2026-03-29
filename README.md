@@ -7,6 +7,7 @@
 
 I'm Bharath, a Computer Science Engineering student passionate about building scalable cloud-based applications ☁️ and intelligent systems 🤖.
 
+
 - 🎓 Pre-final year CSE student (CGPA: 8.67)
 - 🔭 Currently working on **AI & Cloud-based projects**
 - 🌱 Learning **Kubernetes, Advanced AWS & DevOps**
@@ -88,6 +89,7 @@ I'm Bharath, a Computer Science Engineering student passionate about building sc
 ---
 
 ## 📫 Connect with Me
+
 
 <p align="left">
 <a href="https://github.com/bharath5229" target="blank">GitHub</a> |
