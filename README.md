@@ -90,8 +90,8 @@ I'm Bharath, a Computer Science Engineering student passionate about building sc
 ## 📫 Connect with Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">GitHub</a> |
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">LinkedIn</a> |
+<a href="[https://github.com/YOUR_USERNAME](https://github.com/bharath5229)" target="blank">GitHub</a> |
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/bharath-s-861296316)" target="blank">LinkedIn</a> |
 <a href="mailto:bharathsureshbabu22@gmail.com">Email</a>
 </p>
 
